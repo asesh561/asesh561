@@ -1,6 +1,7 @@
-### Hi there 👋
-###🌱 I’m currently learning... Angular
-###📫 How to reach me: ...https://www.linkedin.com/in/asesh-raj-b1a851190/
+Hi, I'm Asesh !
+🔭 
+Learning Frontend development
+
 
 <!--
 ###🌱 I’m currently learning... Angular

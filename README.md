@@ -1,6 +1,5 @@
 Hi, I'm Asesh !
-🔭 
-Learning Frontend development
+🔭 Learning Frontend development
 
 
 <!--

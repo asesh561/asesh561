@@ -1,4 +1,6 @@
 ### Hi there 👋
+###🌱 I’m currently learning... Angular
+###📫 How to reach me: ...https://www.linkedin.com/in/asesh-raj-b1a851190/
 
 <!--
 ###🌱 I’m currently learning... Angular

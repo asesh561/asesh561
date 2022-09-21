@@ -1,5 +1,5 @@
 Hi, I'm Asesh !
-🔭 Learning Frontend development
+🔭 Learning java full stack development
 
 
 <!--

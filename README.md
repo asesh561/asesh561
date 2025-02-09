@@ -1,5 +1,5 @@
 Hi, I'm Asesh !
-🔭 Learning java full stack development
+🔭 I am php laravel full stack developer
 
 
 <!--
